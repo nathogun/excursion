@@ -2,6 +2,7 @@ body{
     background-color: #000000;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffffff;
 }
 /* HEAD*/
 .head{
@@ -19,11 +20,21 @@ body{
 }
 
 .head--sub--sub{
-    color: #ffffff;
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
 }
 
 /*AQUA COLOR*/
 a.aqua{
     color: aquamarine;
     font-size: 16px;
+}
+
+/*FOOTER*/
+.footer{
+    text-align: right;
+    color: gray;
+    display: block;
+    font-size: 21px;
 }
